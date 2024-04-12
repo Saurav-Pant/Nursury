@@ -2,7 +2,8 @@ import React from "react";
 
 const Sidebar = () => {
   return (
-    <div className="w-2/5 sm:1/5 bg-gray-200 p-6">
+    <div className="w-2/5 sm:w-1/5 lg:w-1/6 bg-gray-200 p-6">
+      <div className="sticky top-0">
       <div className="mb-8">
         <h1 className="text-xl font-semibold mb-4 text-green-800">Plant Collections</h1>
         <ul>
@@ -92,6 +93,7 @@ const Sidebar = () => {
             </a>
           </li>
         </ul>
+      </div>
       </div>
     </div>
   );
