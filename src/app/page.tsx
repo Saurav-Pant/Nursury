@@ -3,15 +3,15 @@ import Navbar from "./Components/Navbar";
 import Banner from "./Components/Banner";
 import MainBar from "./Components/MainBar";
 import Sidebar from "./Components/Sidebar";
-import img1 from "@/Assets/img1.png";
-import img2 from "@/Assets/img2.png";
-import img3 from "@/Assets/img3.png";
-import img4 from "@/Assets/img4.png";
-import img5 from "@/Assets/img5.png";
-import img6 from "@/Assets/img6.png";
-import img7 from "@/Assets/img7.png";
-import img8 from "@/Assets/img8.png";
-import img9 from "@/Assets/img9.png";
+import img1 from "../Assets/img1.png";
+import img2 from "../Assets/img2.png";
+import img3 from "../Assets/img3.png";
+import img4 from "../Assets/img4.png";
+import img5 from "../Assets/img5.png";
+import img6 from "../Assets/img6.png";
+import img7 from "../Assets/img7.png";
+import img8 from "../Assets/img8.png";
+import img9 from "../Assets/img9.png";
 
 const cardData = [
   {

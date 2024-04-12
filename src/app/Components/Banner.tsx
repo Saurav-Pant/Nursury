@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import Banner1 from "@/Assets/topimg.png";
+import Banner1 from "../../Assets/Banner.png";
 
 
 
