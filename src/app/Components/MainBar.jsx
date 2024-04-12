@@ -9,7 +9,9 @@ const imageStyle = {
 const MainBar = ({ cards }) => {
   return (
     <div className="w-4/5 bg-white flex flex-wrap justify-around">
+      <h1 className="bg-[#FFEFEF] p-4 text-center w-full font-bold text-3xl text-green-400">Plant Collection</h1>
       {cards.map((card, index) => (
+        
         <div
           key={index}
           className=" m-4 rounded w-full sm:w-1/2 md:w-1/3 lg:w-1/4 max-w-xs pb-5"
