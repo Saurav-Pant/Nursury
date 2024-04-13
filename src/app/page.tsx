@@ -15,9 +15,9 @@ import img9 from "../Assets/img9.png";
 
 const cardData = [
   {
-    image: img1,
-    name: "Product 1",
-    price: "$10",
+    image: "https://res.cloudinary.com/dckdlxulq/image/upload/v1713016816/Anthurium_andraeanum_Flamingo-lily_450_htpmqv.jpg",
+    name: "Ankit",
+    price: "100",
   },
   {
     image: img2,
